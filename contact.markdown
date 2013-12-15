@@ -2,5 +2,5 @@
 title: Contact
 ---
 
-I live in a small hut in the mountains of Kumano Kod on Kii Hant and would not
-like to be contacted.
+You can contact me at catern@.. over email or XMPP. 
+Comments and flames are welcome.
