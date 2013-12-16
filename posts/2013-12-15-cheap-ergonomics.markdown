@@ -24,9 +24,9 @@ Unfortunately, both of these have pricetags of a couple hundred dollars.
 Luckily, [Japanese thumb shift keyboards](http://en.wikipedia.org/wiki/Thumb-shift_keyboard) exist and are as cheap as a normal keyboard.
 ![thumb shift keyboard](/images/thumb-shift.jpg)
 
-I paid a few dollars on eBay to get mine.
+I paid a few dollars on eBay to get mine, which has a slightly different layout from the one in the picture.
 
-I remapped the thumb-keys to Super, Backspace, Space, Enter, in that order.
+I now have four keys within reach of my thumbs, which I map to Super, Backspace, Space, and Enter.
 
 I picked Backspace and Enter because they're usually pressed by the weakest finger, the pinky. 
 The choice of Super was driven by my window manager.
