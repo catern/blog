@@ -35,6 +35,7 @@ Other keys like Alt (which I can hit by tucking my left thumb)
 or Ctrl (which is already on my Caps Lock key)
 or Escape (which I have on a mode switch mapping, more on that in a later post) are also good choices.
 These bindings can be set up by running `xmodmap -pke > keymap`, tweaking the mappings with the help of `xev`, and then running `xmodmap keymap`. 
+You can see my `xmodmap` configuration [here](/content/xmodmaprc).
 
 I've been using this keyboard and these bindings exclusively on my desktop for about a year now, and I like it.
 

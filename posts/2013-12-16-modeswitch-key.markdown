@@ -3,16 +3,17 @@ title: Adding a Mode_switch key in xmodmap
 author: catern
 ---
 
-The specifics of the keymap that I use with my thumb-shift keyboard mean that the hardware Super key is superfluous and can be mapped to something else.
+Thanks to my thumb-shift keyboard, I don't need the hardware Super key and can reuse it for something else.
 
 I map my left Super key to Mode\_switch.
 Mode\_switch basically functions as an additional shift key.
-While Mode\_switch is held down, X11 will send differnt keysyms to applications, and the sent keysyms can be configured.
+While Mode\_switch is held down, X11 will send different keysyms to applications, and the sent keysyms can be configured with `xmodmap`.
 
 It's a good way to make it easier to send out-of-the-way, rarely used keys, such as the arrow keys or Home/End/PgUp/PgDn.
 I use mappings that follow the vi keybindings, so that even in applications that only understand arrow keys, I can still use hjkl.
 
 This is a list of the relevant keys sent when I hold down Mode\_shift.
+You can see my `xmodmap` configuration [here](/content/xmodmaprc).
 
 + hjkl: Arrow Keys
 + ^ and 0: Home
