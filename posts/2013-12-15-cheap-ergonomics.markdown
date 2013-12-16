@@ -14,16 +14,18 @@ This will lighten the load on the other fingers and perhaps, if carefully chosen
 Some ergonomic keyboards do exactly this.
 
 The [Kinesis Advantage](http://www.kinesis-ergo.com/advantage.htm) contoured keyboard:
+
 ![Kinesis Advantage](/images/kinesis.jpg)
 
 The [Ergodox](http://ergodox.org/) hobbyist-made keyboard:
+
 ![Ergodox](/images/ergodox.jpg)
 
 Unfortunately, both of these have pricetags of a couple hundred dollars.
 
 Luckily, [Japanese thumb shift keyboards](http://en.wikipedia.org/wiki/Thumb-shift_keyboard) exist and are as cheap as a normal keyboard.
 
-![Thumb shift keyboard](/images/thumb-shift.jpg)
+![thumb shift keyboard](/images/thumb-shift.jpg)
 
 I paid a few dollars on eBay to get mine.
 
