@@ -3,11 +3,11 @@ title: Using a Japanese thumb-shift keyboard for cheap ergonomics
 author: catern
 ---
 
-Your thumbs are almost tragically underutilized in traditional keyboards.
+Your thumbs are almost tragically underutilized with traditional keyboards.
 Take a moment and type a sentence or two, and notice which thumb you hit the spacebar with.
 Most people use the right thumb exclusively.
 
-This is extremely wasteful.
+This is quite wasteful.
 The natural solution is to split the spacebar up, and assign the thumbs to hit some additional keys now within their reach.
 This will lighten the load on the other fingers and perhaps, if carefully chosen, help keep the hands on the home row.
 
@@ -20,7 +20,7 @@ Luckily, [Japanese thumb shift keyboards](http://en.wikipedia.org/wiki/Thumb-shi
 ![Japanese thumb shift keyboard](/images/thumb-shift.jpg)
 I paid a few dollars on eBay to get mine.
 
-I immediately remapped the thumb-keys to Super, Backspace, Space, Enter, in order.
+I immediately remapped the thumb-keys to Super, Backspace, Space, Enter, in that order.
 
 I picked Backspace and Enter because they're extremely frequently pressed by the weakest finger, the pinky. 
 The choice of Super was driven by my window manager.
