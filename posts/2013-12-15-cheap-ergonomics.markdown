@@ -12,12 +12,19 @@ The natural solution is to split the spacebar up, and assign the thumbs to hit s
 This will lighten the load on the other fingers and perhaps, if carefully chosen, help keep the hands on the home row.
 
 Some ergonomic keyboards do exactly this.
-![Kinesis Advantage](/images/kinesis.jpg)
-![Ergodox](/images/ergodox.jpg)
-However, I'm far too cheap to spend a couple hundred bucks on a keyboard that I might not even like.
 
-Luckily, [Japanese thumb shift keyboards](http://en.wikipedia.org/wiki/Thumb-shift_keyboard)  exist and are as cheap as a normal keyboard.
-![Japanese thumb shift keyboard](/images/thumb-shift.jpg)
+The [Kinesis Advantage](http://www.kinesis-ergo.com/advantage.htm) contoured keyboard:
+![Kinesis Advantage](/images/kinesis.jpg)
+
+The [Ergodox](http://ergodox.org/) hobbyist-made keyboard:
+![Ergodox](/images/ergodox.jpg)
+
+Unfortunately, both of these have pricetags of a couple hundred dollars.
+
+Luckily, [Japanese thumb shift keyboards](http://en.wikipedia.org/wiki/Thumb-shift_keyboard) exist and are as cheap as a normal keyboard.
+
+![Thumb shift keyboard](/images/thumb-shift.jpg)
+
 I paid a few dollars on eBay to get mine.
 
 I immediately remapped the thumb-keys to Super, Backspace, Space, Enter, in that order.
