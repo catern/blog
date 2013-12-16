@@ -4,7 +4,7 @@ author: catern
 ---
 
 Your thumbs are tragically underutilized with traditional keyboards.
-Take a moment, type a few words, and notice which thumb you hit the spacebar with.
+Take a moment, type a few words, and notice which thumb you use to hit the spacebar.
 Most people use the right thumb exclusively, some use the left thumb, but there's few who use both thumbs when touch typing.
 
 Using two perfectly good fingers to hit a single key is wasteful.
