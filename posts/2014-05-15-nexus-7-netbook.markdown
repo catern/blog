@@ -4,8 +4,8 @@ author: catern
 ---
 
 For about a year and a half, I had no laptop, only a [2012 Nexus 7](http://en.wikipedia.org/wiki/Nexus_7_(2012_version))
-with a [Bluetooth keyboard](http://www.amazon.com/Logitech-920-003390-Tablet-Keyboard-Android/dp/B0054L8N7M).
-and a desktop I had previously built myself.
+with a [Bluetooth keyboard](http://www.amazon.com/Logitech-920-003390-Tablet-Keyboard-Android/dp/B0054L8N7M)
+and a desktop I'd built previously.
 
 ![](/images/nexus7.jpg)
 
